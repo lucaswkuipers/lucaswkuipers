@@ -10,3 +10,5 @@
 ](https/github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswkuipers&theme=radical)
+
+![snake gif](https://github.com/lucaswkuipers/lucaswkuipers/blob/output/github-contribution-grid-snake.gif)
