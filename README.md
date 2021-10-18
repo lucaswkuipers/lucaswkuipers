@@ -12,3 +12,4 @@
 ![snake svg](https://github.com/lucaswkuipers/lucaswkuipers/blob/output/github-contribution-grid-snake.svg)
 
 [![Repos Badge](https://badges.pufler.dev/repos/lucaswkuipers)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/lucaswkuipers/lucaswkuipers)](https://badges.pufler.dev)
