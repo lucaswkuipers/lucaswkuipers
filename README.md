@@ -13,3 +13,4 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/lucaswkuipers)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/lucaswkuipers/lucaswkuipers)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
