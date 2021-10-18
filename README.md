@@ -7,5 +7,8 @@
 - 🙋‍♂️ Let's talk! Hit me up on [LinkedIn](https://www.linkedin.com/in/lucaskuipers/).
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaswkuipers&count_private=true&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswkuipers&theme=radical)
 ![snake svg](https://github.com/lucaswkuipers/lucaswkuipers/blob/output/github-contribution-grid-snake.svg)
+
+[![Repos Badge](https://badges.pufler.dev/repos/lucaswkuipers)](https://badges.pufler.dev)
