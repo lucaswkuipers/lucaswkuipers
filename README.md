@@ -1,4 +1,4 @@
-# Hello, world! 🌎
+# Hello, world!
 #### I'm Lucas Werner Kuipers and it's a great pleasure to meet you.
 
 `My mission is to provide powerful solutions through delightful high quality software.` (while having tons of fun)
