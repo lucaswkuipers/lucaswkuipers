@@ -18,3 +18,5 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/lucaswkuipers/lucaswkuipers)](https://badges.pufler.dev)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lucaskuipers/)
