@@ -9,6 +9,13 @@
 - 🙋‍♂️ Let's talk! Hit me up on [LinkedIn](https://www.linkedin.com/in/lucaskuipers/)
 - 🎓 Software Engineering ([UNINTER](https://www.uninter.com/)) and Mechanical Engineering student ([UFSC](https://ufsc.br/))
 
+## Main programming languages
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaswkuipers&count_private=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswkuipers&theme=radical)
@@ -18,13 +25,6 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/lucaswkuipers/lucaswkuipers)](https://badges.pufler.dev)
-
-## Main programming languages
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## Social 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lucaskuipers/)
