@@ -5,7 +5,7 @@
 <br/>
 
 > ### My mission is to provide powerful solutions through delightful high quality software. 
-> (while having tons of fun)
+> (while having tons of fun 🧩)
 
 
 <br/>
