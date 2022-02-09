@@ -1,7 +1,14 @@
 # Hello, world!
 #### I'm Lucas Werner Kuipers and it's a great pleasure to meet you.
 
-`My mission is to provide powerful solutions through delightful high quality software.` (while having tons of fun)
+<br/>
+
+> ### My mission is to provide powerful solutions through delightful high quality software. 
+> (while having tons of fun)
+
+
+<br/>
+<br/>
 
 - 📱 I'm currently working on native **iOS development** (**Swift** | Objective-C)
 - 🎮 I love playing and (most of all) developing physics-based coop / local / couch games (resembling: [A Gummy's Life](https://store.steampowered.com/app/585190/A_Gummys_Life/), [Gang Beasts](https://store.steampowered.com/app/285900/Gang_Beasts/), [Human Fall Flat](https://store.steampowered.com/app/477160/Human_Fall_Flat/), [Moving Out](https://store.steampowered.com/app/996770/Moving_Out/), [Overcooked](https://store.steampowered.com/app/448510/Overcooked/)...)
@@ -9,12 +16,20 @@
 - 🙋‍♂️ Let's talk! Hit me up on [LinkedIn](https://www.linkedin.com/in/lucaskuipers/)
 - 🎓 Software Engineering ([UNINTER](https://www.uninter.com/)) and Mechanical Engineering student ([UFSC](https://ufsc.br/))
 
+
+<br/>
+<br/>
+
+
 ## Main programming languages
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+<br/>
+<br/>
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaswkuipers&count_private=true&show_icons=true&theme=radical)
 
@@ -25,6 +40,9 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/lucaswkuipers/lucaswkuipers)](https://badges.pufler.dev)
+
+<br/>
+<br/>
 
 ## Social 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lucaskuipers/)
