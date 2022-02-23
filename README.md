@@ -12,7 +12,7 @@
 <br/>
 
 - 📱 I'm currently working on native **iOS development** (**Swift** | Objective-C)
-- 🎮 I love playing and (most of all) developing physics-based coop / local / couch games (resembling: [A Gummy's Life](https://store.steampowered.com/app/585190/A_Gummys_Life/), [Gang Beasts](https://store.steampowered.com/app/285900/Gang_Beasts/), [Human Fall Flat](https://store.steampowered.com/app/477160/Human_Fall_Flat/), [Moving Out](https://store.steampowered.com/app/996770/Moving_Out/), [Overcooked](https://store.steampowered.com/app/448510/Overcooked/)...)
+- 🎮 I love playing and (most of all) developing physics-based and / or coop / local / couch games (resembling: [A Gummy's Life](https://store.steampowered.com/app/585190/A_Gummys_Life/), [Gang Beasts](https://store.steampowered.com/app/285900/Gang_Beasts/), [Human Fall Flat](https://store.steampowered.com/app/477160/Human_Fall_Flat/), [Moving Out](https://store.steampowered.com/app/996770/Moving_Out/), [Overcooked](https://store.steampowered.com/app/448510/Overcooked/)...)
 - 💬 English (🇺🇸) and portuguese (🇧🇷) are my two main spoken languages
 - 🙋‍♂️ Let's talk! Hit me up on [LinkedIn](https://www.linkedin.com/in/lucaskuipers/)
 - 🎓 Software Engineering ([UNINTER](https://www.uninter.com/)) and Mechanical Engineering student ([UFSC](https://ufsc.br/))
