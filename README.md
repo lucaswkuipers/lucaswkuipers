@@ -1,9 +1,9 @@
-# Hello, world!
+# Hello, world! 🌍
 #### I'm  *Lucas Werner Kuipers*  and it's a great pleasure to meet you.
 
 <br/>
 
-## iOS Development
+## iOS Development 📱
 - Swift 5+, Objc-C & iOS 15 Frameworks
 - Unit, UI, Snapshot & Integration tests
 - MVC, MVVM, VIPER, VIP & Clean Architecture
@@ -13,7 +13,7 @@
 
 <br/>
 
-## About me
+## About me 👨‍💻
 
 I have been a fierce Apple consumer ever since the first iPhone came out. As a creativity-driven person, being able to develop solutions that I carry on the palm of my hand was (and still is) breathtakingly exciting. And that's what I'm always doing... even on my spare time, developing apps just feels amazing.
 
