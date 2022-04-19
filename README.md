@@ -18,7 +18,7 @@
 
 I have been a fierce **Apple** consumer ever since the first **iPhone** came out. As a creativity-driven person, being able to develop solutions that I carry on the palm of my hand was (and still is) *breathtakingly exciting*. And that's what I'm always doing... even (and more so!) on my spare time, developing apps *just feels amazing*.
 
-I was blessed with the opportunity to develop great solutions for some incredible and big companies, ranging from working at the Spanish Multinational company, [**everis**](https://www.linkedin.com/company/everis/?originalSubdomain=br) (now the japanese **NTT Data**), building a PDF generation (with PDFKit) transactions customization and filtering system (of the client's bank statement) for the [**Itaú Unibanco** app](https://www.itau.com.br/) (*largest Bank in Latin America*) to implementing same day delivery and local pick up features for the [**Petlove**](https://www.petlove.com.br/) app (Brazil greatest Pet Ecosystem). 
+I was blessed with the opportunity to develop great solutions for some incredible and big companies, ranging from working at the Spanish Multinational company, [**everis**](https://www.linkedin.com/company/everis/?originalSubdomain=br) (now the japanese [**NTT Data**](https://www.nttdata.com/global/en/)), building a PDF generation (with PDFKit) transactions customization and filtering system (of the client's bank statement) for the [**Itaú Unibanco** app](https://www.itau.com.br/) (*largest Bank in Latin America*) to implementing same day delivery and local pick up features for the [**Petlove**](https://www.petlove.com.br/) app (Brazil greatest Pet Ecosystem). 
 
 <br/>
 <br/>
