@@ -55,11 +55,6 @@ I was blessed with the opportunity to develop great solutions for some incredibl
 
 ![snake svg](https://github.com/lucaswkuipers/lucaswkuipers/blob/output/github-contribution-grid-snake.svg)
 
-[![Repos Badge](https://badges.pufler.dev/repos/lucaswkuipers)](https://github.com/lucaswkuipers?tab=repositories)
-[![Commits Badge](https://badges.pufler.dev/gists/lucaswkuipers)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/lucaswkuipers/lucaswkuipers)](https://badges.pufler.dev)
-
 <br/>
 <br/>
 
