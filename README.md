@@ -12,8 +12,7 @@ An active tech community contributor, always talking and publishing about iOS on
 <br/>
 <br/>
 
-> ### My mission is to provide powerful solutions through delightful high quality software. 
-> (while having tons of fun 🧩)
+> ### My mission is to provide user centric solutions through delightful high quality software.
 
 <br/>
 <br/>
