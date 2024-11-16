@@ -1,6 +1,6 @@
 ## About me 👨‍💻
 
-I have been a fierce **Apple** consumer ever since the first **iPhone** came out. As a creativity-driven person, being able to develop solutions that I carry on the palm of my hand was (and still is) *breathtakingly exciting*. And that's what I'm always doing... even (and more so!) on my spare time, developing apps *just feels amazing*.
+I have been a fierce **Apple** consumer ever since the first **iPhone** came out. As a creativity-driven person, being able to develop solutions that I carry on the palm of my hand was (and still is) *breathtakingly exciting*. And that's what I'm always doing... even on my spare time, developing apps *just feels amazing*.
 
 I’m **Lucas Werner Kuipers**, a software engineer specialized in native Apple Platforms development with Swift.
 
