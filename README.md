@@ -1,8 +1,8 @@
 ## About me 👨‍💻
 
-I have been a fierce **Apple** consumer ever since the first **iPhone** came out. As a creativity-driven person, being able to develop solutions that I carry on the palm of my hand was (and still is) *breathtakingly exciting*. And that's what I'm always doing... developing apps *just feels amazing*.
-
 I’m **Lucas Werner Kuipers**, a software engineer specialized in native Apple Platforms development with Swift.
+
+I have been a fierce **Apple** consumer ever since the first **iPhone** came out. As a creativity-driven person, being able to develop solutions that I carry on the palm of my hand was (and still is) *breathtakingly exciting*. And that's what I'm always doing... developing apps *just feels amazing*.
 
 My experience spans from startups to large corporations, having worked on big apps in Banking, Ecommerce, Utility and Social. Goodnotes (2022 iPad App Of The Year), Itaú Unibanco (Latin America's largest bank), Petlove (Brazil's top pet ecommerce), BS2 (large established bank for legal entities) and now Bump by amo.
 
