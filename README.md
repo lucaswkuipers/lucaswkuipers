@@ -1,6 +1,6 @@
 ## About me 👨‍💻
 
-I’m **Lucas Werner Kuipers**, a software engineer specialized in native Apple Platforms development with Swift.
+I’m **Lucas Werner Kuipers**, a software engineer specialized in iOS development with Swift (UIKit, SwiftUI).
 
 I have been a fierce **Apple** consumer ever since the first **iPhone** came out. As a creativity-driven person, being able to develop solutions that I carry on the palm of my hand was (and still is) *breathtakingly exciting*. And that's what I'm always doing... developing apps *just feels amazing*.
 
