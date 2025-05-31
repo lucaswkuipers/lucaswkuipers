@@ -10,8 +10,6 @@ Author of open source packages like ViewKit, SoundKit and RequestKit.
 
 Tech community contributor, occasionally talking about iOS on LinkedIn, Youtube and Medium.
 
-<br/>
-
 > ### My mission is to provide solutions through delightful software.
 
 <br/>
