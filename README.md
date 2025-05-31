@@ -4,7 +4,7 @@ I’m **Lucas Werner Kuipers**, a software engineer specialized in iOS developme
 
 I've been a fierce **Apple** consumer ever since the first **iPhone** came out. As a creative person, being able to develop software that I carry on the palm of my hand was (and still is) *breathtakingly exciting*. And that's what I'm always doing... creating *just feels amazing*.
 
-My experience spans from startups to large corporations, having worked on big apps in Banking, Ecommerce, Utility and Social. Goodnotes (2022 iPad App Of The Year), Itaú Unibanco (Latin America's largest bank), Petlove (Brazil's top pet ecommerce), BS2 (large established bank for legal entities) and now Bump by amo.
+My experience spans from startups to large corporations, having worked on big apps in Banking, Ecommerce, Utility and Social. Goodnotes (2022 iPad App Of The Year), Itaú Unibanco (Latin America's largest bank), Petlove (Brazil's top pet ecommerce), BS2 (large established bank for legal entities) and now location sharing social at Bump by amo (by the creators of Zenly).
 
 Author of open source packages like ViewKit, SoundKit and RequestKit. 
 
