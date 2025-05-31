@@ -38,13 +38,6 @@ An active tech community contributor, always talking and publishing about iOS on
 <br/>
 <br/>
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaswkuipers&count_private=true&show_icons=true&theme=radical)
-
-![snake svg](https://github.com/lucaswkuipers/lucaswkuipers/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
-<br/>
-
 ## Social 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lucaswk/)
 [<img src="https://img.shields.io/badge/Python_For_Engineers-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/channel/UCv1K0VLoNPNj5TQDn3nKwdg/featured)
