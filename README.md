@@ -9,12 +9,11 @@ My experience spans from startups to large corporations, having worked on big ap
 Author of open source packages like ViewKit, SoundKit and RequestKit. 
 
 An active tech community contributor, always talking and publishing about iOS on LinkedIn, Youtube and Medium. Dedicated to simplifying high quality iOS development for everyone, pushing the boundaries of the field and delivering delightful experiences to users worldwide.
-<br/>
-<br/>
-
-> ### My mission is to provide user centric solutions through delightful high quality software.
 
 <br/>
+
+> ### My mission is to provide solutions through delightful software.
+
 <br/>
 
 - 📱 I'm currently working on native **iOS development** (**Swift** | Objective-C)
@@ -23,8 +22,6 @@ An active tech community contributor, always talking and publishing about iOS on
 - 🙋‍♂️ Let's talk! Hit me up on [LinkedIn](https://www.linkedin.com/in/lucaskuipers/)
 - 🎓 Software Engineering ([UNINTER](https://www.uninter.com/)) and Mechanical Engineering ([UFSC](https://ufsc.br/))
 
-
-<br/>
 <br/>
 
 
@@ -35,7 +32,6 @@ An active tech community contributor, always talking and publishing about iOS on
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-<br/>
 <br/>
 
 ## Social 
