@@ -8,7 +8,7 @@ My experience spans from startups to large corporations, having worked on big ap
 
 Author of open source packages like ViewKit, SoundKit and RequestKit. 
 
-An active tech community contributor, always talking and publishing about iOS on LinkedIn, Youtube and Medium. Dedicated to simplifying high quality iOS development for everyone, pushing the boundaries of the field and delivering delightful experiences to users worldwide.
+An active tech community contributor, always talking and publishing about iOS on LinkedIn, Youtube and Medium. Dedicated to simplifying high quality iOS development for everyone, pushing the boundaries of the field and delivering amazing experiences to users worldwide.
 
 <br/>
 
